@@ -2,6 +2,14 @@
 
 This is a short guide on how to correctly configure Linux Mint 20.1 Ulyssa on Matebook D 14 2018 (Ryzen 5 2500U).
 
+## Deprecation notice
+
+⚠️ This guide is outdated, I no longer use Linux Mint on my Matebook but use Fedora (36 and soon 37).
+
+Fedora works fine, but sometimes it suddenly freezes [AMD Ryzen Bug?]([AMD Ryzen &quot;Freezing&quot; Bug on GNU/Linux Systems · GitHub](https://gist.github.com/dlqqq/876d74d030f80dc899fc58a244b72df0)).
+
+The touchpad works fine if you do not use suspend to RAM.
+
 ## Update the kernel
 
 After installation I raccomend you to install the latest 5.8 kernel available.
